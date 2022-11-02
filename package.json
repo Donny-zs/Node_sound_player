@@ -1,0 +1,31 @@
+{
+  "type": "module",
+  "name": "node_sound_player",
+  "version": "1.0.0",
+  "description": "light module to play sound in native Node, use 'exec' from child_process. Work in Windows XP+, and Termux in first commit",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Donny-zs/Node_sound_player.git"
+  },
+  "keywords": [
+    "sound",
+    "music",
+    "alert",
+    "notification",
+    "node_sound",
+    "player",
+    "node_player",
+    "sfx",
+    "action"
+  ],
+  "author": "Donny-zs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Donny-zs/Node_sound_player/issues"
+  },
+  "homepage": "https://github.com/Donny-zs/Node_sound_player#readme"
+}
